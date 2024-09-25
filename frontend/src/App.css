@@ -1,0 +1,13 @@
+.custom-background {
+  background-image: url('../public/img.png');
+  background-repeat:no-repeat;
+  background-size: cover;
+  color: black;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+}
